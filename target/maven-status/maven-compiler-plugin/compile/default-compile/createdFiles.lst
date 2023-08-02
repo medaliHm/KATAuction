@@ -1,8 +1,0 @@
-com\kata\auction\threadsafe\AuctionService.class
-com\kata\auction\common\AuctionException.class
-com\kata\auction\common\Bid.class
-com\kata\auction\threadsafe\Auction.class
-com\kata\auction\common\Bidder.class
-com\kata\auction\second\Auction.class
-com\kata\auction\common\Winner.class
-com\kata\auction\second\AuctionService_1.class
